@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" fill="none">
+  <ellipse cx="240" cy="292" rx="180" ry="14" fill="#0f2461" opacity=".12"/>
+  <!-- folder -->
+  <path d="M70 110a14 14 0 0 1 14-14h70l22 24h180a14 14 0 0 1 14 14v138a14 14 0 0 1-14 14H84a14 14 0 0 1-14-14z" fill="#173687"/>
+  <rect x="96" y="82" width="120" height="150" rx="10" fill="#fff" transform="rotate(-6 156 157)"/>
+  <rect x="200" y="74" width="130" height="160" rx="10" fill="#dbe8ff" transform="rotate(4 265 154)"/>
+  <rect x="118" y="106" width="64" height="8" rx="4" fill="#9db8f5" transform="rotate(-6 150 110)"/>
+  <rect x="222" y="98" width="70" height="8" rx="4" fill="#2f66f0" transform="rotate(4 257 102)"/>
+  <path d="M70 140a14 14 0 0 1 14-14h312a14 14 0 0 1 14 14v124a14 14 0 0 1-14 14H84a14 14 0 0 1-14-14z" fill="#2f66f0"/>
+  <rect x="96" y="226" width="110" height="10" rx="5" fill="#fff" opacity=".85"/>
+  <rect x="96" y="246" width="70" height="8" rx="4" fill="#bfd4ff"/>
+  <!-- handoff badge -->
+  <g transform="translate(340 190)">
+    <circle cx="50" cy="50" r="50" fill="#f59e0b"/>
+    <rect x="28" y="34" width="44" height="34" rx="6" fill="#fff"/>
+    <path d="m34 34 16 12 16-12" stroke="#f59e0b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="74" cy="72" r="13" fill="#0f9d58"/>
+    <path d="m68 72 4 4 8-9" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
